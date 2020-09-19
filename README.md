@@ -38,9 +38,9 @@ Time | Task
 18 - Sunday 20:00 | End of Makerthon (submit to github or email)
 
 # IoT talk by Mr.Shamry (CEO and Product Engineer)
-Shmary has always been facinated with technology, from the day in primary when he created his own plane to this day when he choices to invent in Loranet as opposed to earning big bucks in large corborates. He has had many insights and experiences along the way, and today he will be sharing those with you.
+Shamry has always been facinated with technology, from the day in primary when he created his own plane to this day when he choices to invent in Loranet as opposed to earning big bucks in large corborates. He has had many insights and experiences along the way, and today he will be sharing those with you.
 ### References:
-- Loranet.org
+- https://www.loranet.my/
 
 # 3D Printers
 3D printers are a ground breaking technology that allows creation of many 3 dimenssional models out of plastic. This device is frequently being used in industires for rapid model development of product casing, mechanical gear etc. Stundets will be devided up into groups of 5 (to make 4 groups in total), 2 of which will assemble the printer and learn about the component make-up of such device, while the other 2 teams will find appropriate casing model for Heltec Wifi Lora32 (v2). 
@@ -81,8 +81,9 @@ LoraWAN (loRa wide are network) is a communication protocol that is made up of a
 - https://heltec-automation-docs.readthedocs.io/en/latest/esp32/lorawan/index.html
 - To get your device license key refer to the "Heltec_IDs.csv" file.
 - https://console.thethingsnetwork.org/
-- NODERED
-- GRAPHANA
+- https://www.thethingsnetwork.org/docs/applications/nodered/
+- https://flows.nodered.org/flow/8e96b8630c4edc866aa0459354033c9b/in/u1hmO7pQPVSi
+- https://grafana.com/docs/grafana/latest/tutorials/
 
 # Makerthon: Sending input data via Lora
 "The best teacher is oneself". This is a common understanding amoung developers. It is time for you to teach yourself. make teams of 4 and select a Team name as well as secondary base code (BLE, Serial or WifiAP). Make an arduino script that will send single integer (e.g. 1 or 6). After completion use the github pull function to send the codes to this repository under "MakerThon" folder with your group name (eg. all files should be in /MakerThon/Team_name). Finish this by Sunday 8pm.
