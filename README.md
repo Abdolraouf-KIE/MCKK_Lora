@@ -21,7 +21,7 @@ Objectives:
    - Setting up the TTN for Each Device
 7. Using raspberry pi for server:
    - use node red to take MQTT message to send to graphana
-   - display stuff on graphana
+   - display on graphana
    
 # Schedual
 Time | Task
@@ -39,12 +39,12 @@ Time | Task
 
 # IoT talk by Mr.Shamry (CEO and Product Engineer)
 Shmary has always been facinated with technology, from the day in primary when he created his own plane to this day when he choices to invent in Loranet as opposed to earning big bucks in large corborates. He has had many insights and experiences along the way, and today he will be sharing those with you.
-## References:
+### References:
 - Loranet.org
 
 # 3D Printers
 3D printers are a ground breaking technology that allows creation of many 3 dimenssional models out of plastic. This device is frequently being used in industires for rapid model development of product casing, mechanical gear etc. Stundets will be devided up into groups of 5 (to make 4 groups in total), 2 of which will assemble the printer and learn about the component make-up of such device, while the other 2 teams will find appropriate casing model for Heltec Wifi Lora32 (v2). 
-## References:
+### References:
 - "3D Printer" folder in this github repository.
 - Assembly: https://www.youtube.com/watch?v=me8Qrwh907Q&ab_channel=Tombof3DPrintedHorrors
 - Modeling: TODO
@@ -60,24 +60,24 @@ The following links will be refered to setup the IDE:
 
 # Embeded Programming Introduction
 Embeded systems such as the Heltec WiFi Kit 32 are programmed by C/C++ similar language. We will be learning the basics to C and embeded programming using Arduino IDE.
-The following link provides basics to Arduino programming:
+### References:
 - https://www.slideshare.net/baldengineer/introduction-to-arduino-programming-47131515
 
 # Heltec MCU: controll integrated LED (simple)
 MCUs (microcontroller units) are essential small computers. To get to know the basic functionality we use it to comute and addition operation. 
-## References:
+### References:
 - https://en.wikipedia.org/wiki/Serial_communication
 - refere to folder "Arduino"
-- TODO: Add the Serial.read example
+- https://www.arduino.cc/reference/en/language/functions/communication/serial/read/
 
 # Introduction to Lora
 LoRa (long range) is a communication protocol (similar to wifi) for very long range transmissions. Heltec Wifi Kit32 has an integrated LoRa modem which can be used to send data to a gateway. Using TTN (the things network) as data visualization we will then be able to see the traffic. In this segment we will go through the theory of LoRa.
-## References:
+### References:
 - https://www.slideshare.net/RobinHarris10/introduction-to-lora-for-developers
 
 # Sending data to the gateway
 LoraWAN (loRa wide are network) is a communication protocol that is made up of a gateway and nodes where nodes are sensor devices or microcontrollers. We shall turn Heltec Wifi Kit32 into a LoraWAN node and send data.
-## References:
+### References:
 - https://heltec-automation-docs.readthedocs.io/en/latest/esp32/lorawan/index.html
 - To get your device license key refer to the "Heltec_IDs.csv" file.
 - https://console.thethingsnetwork.org/
