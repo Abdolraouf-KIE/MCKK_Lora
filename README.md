@@ -75,7 +75,7 @@ LoRa (long range) is a communication protocol (similar to wifi) for very long ra
 ### References:
 - https://www.slideshare.net/RobinHarris10/introduction-to-lora-for-developers
 
-## Sending data to the gateway
+## Sending data to the gateway (using LoraWAN)
 LoraWAN (loRa wide are network) is a communication protocol that is made up of a gateway and nodes where nodes are sensor devices or microcontrollers. We shall turn Heltec Wifi Kit32 into a LoraWAN node and send data.
 ### References:
 - https://heltec-automation-docs.readthedocs.io/en/latest/esp32/lorawan/index.html
