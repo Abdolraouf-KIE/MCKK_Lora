@@ -47,7 +47,8 @@ Shamry has always been facinated with technology, from the day in primary when h
 ### References:
 - "3D Printer" folder in this github repository.
 - Assembly: https://www.youtube.com/watch?v=me8Qrwh907Q&ab_channel=Tombof3DPrintedHorrors
-- Modeling: TODO
+- Modeling: https://www.thingiverse.com/thing:3510594
+- Modeling: https://www.yeggi.com/q/heltec+wifi/
 
 ## Industiral showcase
 This segment allows the students to see industrial products in the IoT sector. Students are encouraged to ask questions in regards to technical functionality as well as the problem respective devices solve.
